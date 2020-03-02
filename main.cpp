@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstring>
 
 using namespace std;
 
@@ -24,9 +25,16 @@ public:
 };
 
 int main() {
-    A a;
-    A b = a;
-    A c(a);
-    b = c;
+    char* a = "你";
+    char* b = "1";
+    cout << sizeof(*a) << endl;
+    cout << sizeof(*b) << endl;
+
+    cout << sizeof(a) << endl;
+    cout << sizeof(b) << endl;
+
+    cout << typeof(a) << endl;
+    cout << strlen(b) << endl;
+
     return 0;
 }
