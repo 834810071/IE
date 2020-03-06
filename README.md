@@ -12,3 +12,5 @@
 [2020 grinninggringrinninggringrinning 秋招笔试面试合集，以及2019届公司真题模拟题集 & 附上自己的后端指南，computermortar_board包括（C/C++基础、数据结构、算法、操作系统computer、计算机网络、MySQL、shell（ps：sed、awk、grep））](https://github.com/Apriluestc/2020)
 
 [笔试面试知识整理](https://github.com/HIT-Alibaba/interview)
+
+[MeiK](https://meik2333.com/posts)
