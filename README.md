@@ -14,3 +14,7 @@
 [笔试面试知识整理](https://github.com/HIT-Alibaba/interview)
 
 [MeiK](https://meik2333.com/posts)
+
+[专注于分享算法，计算机基础（包括计算机网络，操作系统，MySQL等），无论是应付面试，还是提升自己地内功，这里都能帮到你](https://github.com/iamshuaidi/algo-basic)
+
+[Learning](https://github.com/loversgzl/Learning)

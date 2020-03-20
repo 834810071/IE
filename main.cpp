@@ -1,20 +1,45 @@
+#include <iostream>
 
-#include <cstdio>
-#include <cstdlib>
-#include <cstring>
-#include <assert.h>
+using namespace std;
 
-char* getMemory(char *p)
-{
-    p=(char *)malloc(100);
-    assert(p != NULL);
-    return p;
-}
-int main() {
-    char *str = NULL;
-    str = getMemory(str);
-    strcpy(str, "he");
-    printf("%s", str);
+struct TreeNode {
+    int val;
+    struct TreeNode *left;
+    struct TreeNode *right;
+    TreeNode(int x) :
+            val(x), left(NULL), right(NULL) {
+    }
+};
 
-    return 0;
-}
+class Solution {
+public:
+    int count = 0;
+    TreeNode* KthNode(TreeNode* pRoot, int k) {
+        if (pRoot == nullptr || k <= 0) {
+            return nullptr;
+        }
+
+        {
+            if (pRoot->left)
+            {
+                TreeNode *left = KthNode(pRoot->left, k);
+                if (left) {
+                    return left;
+                }
+            }
+
+            ++count;
+            if (count == k) {
+                return pRoot;
+            }
+            if (pRoot->right)
+            {
+                TreeNode *right = KthNode(pRoot->right, k);
+                if (right) {
+                    return right;
+                }
+            }
+        }
+        return nullptr;
+    }
+};
