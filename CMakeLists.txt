@@ -10,5 +10,6 @@ add_library(Lib ${lib})
 
 add_executable(IE main.cpp)
 add_executable(test test.cpp)
+add_executable(epoll epoll源码注释.c)
 
-target_link_libraries(IE Lib)
+target_link_libraries(IE Lib pthread)

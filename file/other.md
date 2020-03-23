@@ -6,7 +6,9 @@
 
 [面经答案整理四](https://meik2333.com/posts/interview4/)
 
-[笔试/面试]([https://www.cnblogs.com/webary/tag/%E7%AC%94%E8%AF%95%2F%E9%9D%A2%E8%AF%95/](https://www.cnblogs.com/webary/tag/笔试%2F面试/))
+[计算机网络之面试常考](https://www.nowcoder.com/discuss/1937?type=2&order=0&pos=14&page=2)
+
+[笔试/面试](https://www.cnblogs.com/webary/tag/笔试%2F面试/)
 
 [C++后台腾讯WXG实习面经（已拿offer](https://mp.weixin.qq.com/s?__biz=MzU2MTkwMTE4Nw==&mid=2247487932&idx=2&sn=ded87785e7135b9220b592f5a46ab0fa&chksm=fc70ea50cb076346d5d2e773b8633efcb21c60797701648dc34a7ca7ef11e3d6d9ac726d30ae&scene=0&xtrack=1&exportkey=AwpO52UZEKdtSMWLjKDyzjg%3D&pass_ticket=dTP4vQHP4GUGbmiafBk5ZMDwx7EUGJqQfsyKHD0ZVGrDGDNnH6%2Fu3VZP49jLlrk1#rd)
 
@@ -23,3 +25,4 @@
 [一位小哥哥的腾讯后台开发面经 - 无答案](https://mp.weixin.qq.com/s?__biz=Mzg4MTA5MDE3OQ==&mid=2247483752&idx=1&sn=7213ef6c0e9a86df120d562aed855e09&chksm=cf6a0a84f81d8392d719b57f442f3ef849142083314171c8983d401ef82a5b196ad7798bc3d2&scene=0&xtrack=1&exportkey=A2g5CYp5BhdPdn4KMYI9EhU%3D&pass_ticket=dTP4vQHP4GUGbmiafBk5ZMDwx7EUGJqQfsyKHD0ZVGrDGDNnH6%2Fu3VZP49jLlrk1#rd)
 
 [2021 腾讯暑期实习，我竟因这样的题目挂掉了](https://mp.weixin.qq.com/s?__biz=MzA5MzY4NTQwMA==&mid=2651016941&idx=4&sn=5b420834883ea297767e1cdb123a39e2&chksm=8badfd1abcda740c54ce081f8e577dca2fcc62bc3d63841958767a82b45bef2dbe28850302b6&scene=0&xtrack=1&exportkey=A8HulOqxzDItt7yVF%2FjxNmE%3D&pass_ticket=dTP4vQHP4GUGbmiafBk5ZMDwx7EUGJqQfsyKHD0ZVGrDGDNnH6%2Fu3VZP49jLlrk1#rd)
+

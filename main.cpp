@@ -1,45 +1,104 @@
+#include <thread>
 #include <iostream>
+#include <vector>
+#include <queue>
 
 using namespace std;
 
-struct TreeNode {
+struct TreeNode
+{
+    TreeNode(int a)
+    {
+        val = a;
+        left = nullptr;
+        right = nullptr;
+    }
+    TreeNode* left;
+    TreeNode* right;
     int val;
-    struct TreeNode *left;
-    struct TreeNode *right;
-    TreeNode(int x) :
-            val(x), left(NULL), right(NULL) {
+};
+
+class Solution {
+public:
+    vector<vector<int>> levelOrder(TreeNode* root) {
+       vector<vector<int>> res;
+       if (root == nullptr)
+       {
+           return res;
+       }
+
+       TreeNode* cur = root;
+       TreeNode* next = root;
+       vector<int> v;
+       queue<TreeNode*> q;
+       q.push(cur);
+       while (!q.empty())
+       {
+           if (cur == next)
+           {
+               res.push_back(v);
+               v.clear();
+               next = q.back();
+           }
+
+           if (cur->left)
+           {
+               q.push(cur->left);
+           }
+           if (cur->right)
+           {
+               q.push(cur->right);
+           }
+           cur = q.front();
+           v.push_back(cur->val);
+           q.pop();
+       }
+       return res;
     }
 };
 
 class Solution {
 public:
-    int count = 0;
-    TreeNode* KthNode(TreeNode* pRoot, int k) {
-        if (pRoot == nullptr || k <= 0) {
-            return nullptr;
-        }
-
+    vector<vector<int>> levelOrder(TreeNode* root) {
+        vector<vector<int>> res;
+        if (root == nullptr)
         {
-            if (pRoot->left)
+            return res;
+        }
+
+        TreeNode* cur = root;
+        queue<TreeNode*> q;
+        q.push(t);
+        vector<int> v;
+        while (!q.empty())
+        {
+            TreeNode* tmp = q.front(); q.pop();
+            v.push_back(tmp->val);
+            if (tmp->left)
             {
-                TreeNode *left = KthNode(pRoot->left, k);
-                if (left) {
-                    return left;
-                }
+                q.push(tmp->left);
+            }
+            if (tmp->right)
+            {
+                q.push(tmp->right);
             }
 
-            ++count;
-            if (count == k) {
-                return pRoot;
-            }
-            if (pRoot->right)
+            if (tmp == cur)
             {
-                TreeNode *right = KthNode(pRoot->right, k);
-                if (right) {
-                    return right;
-                }
+                cur = q.back();
+                res.push_back(v);
+                v.clear();
             }
         }
-        return nullptr;
+        return res;
     }
-};
+};    TreeNode* t = root;
+
+
+int main()
+{
+    vector<int> arr = {-2,  1, -3, 4, -1, 2, 1, -5, 4};
+    Solution s;
+    cout << s.maxsum(arr);
+
+}
