@@ -26,3 +26,5 @@
 
 [2021 腾讯暑期实习，我竟因这样的题目挂掉了](https://mp.weixin.qq.com/s?__biz=MzA5MzY4NTQwMA==&mid=2651016941&idx=4&sn=5b420834883ea297767e1cdb123a39e2&chksm=8badfd1abcda740c54ce081f8e577dca2fcc62bc3d63841958767a82b45bef2dbe28850302b6&scene=0&xtrack=1&exportkey=A8HulOqxzDItt7yVF%2FjxNmE%3D&pass_ticket=dTP4vQHP4GUGbmiafBk5ZMDwx7EUGJqQfsyKHD0ZVGrDGDNnH6%2Fu3VZP49jLlrk1#rd)
 
+[C++面试宝典](https://www.nowcoder.com/tutorial/93/8ba2828006dd42879f3a9029eabde9f1)
+
