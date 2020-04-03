@@ -1,32 +1,89 @@
 #include <iostream>
+#include <mutex>
+#include <condition_variable>
+#include <queue>
+#include <algorithm>
+
 using namespace std;
-//递归终止函数
-void print()
+void help(vector<int>& arr, int l, int r);
+
+void print(vector<int>& arr)
 {
-    cout << "empty" << endl;
+    for (int& i : arr)
+    {
+        cout << i << " ";
+    }
+    cout << endl;
+}
+void sort(vector<int>& arr)
+{
+    help(arr, 0, arr.size()-1);
 }
 
-
-
-struct AA {
-
-    int a;       //长度4 > 2 按2对齐；偏移量为0；存放位置区间[0,3]
-
-    char b;  //长度1 < 2 按1对齐；偏移量为4；存放位置区间[4]
-
-    short c;     //长度2 = 2 按2对齐；偏移量要提升到2的倍数6；存放位置区间[6,7]
-
-    char d;  //长度1 < 2 按1对齐；偏移量为7；存放位置区间[8]；共九个字节
-
-};
-
-int main(void)
+void swap(vector<int>& arr, int x, int y)
 {
-    cout << sizeof(AA) << endl;
+    arr[x] ^= arr[y];
+    arr[y] ^= arr[x];
+    arr[x] ^= arr[y];
+}
+
+int digui(vector<int>& arr, int l, int r)
+{
+    if (l >= r)
+    {
+        return l;
+    }
+    int cur = arr[l];
+    int index = l;
+
+    while (l < r)
+    {
+        while (r >= l && arr[r] > cur)
+        {
+            --r;
+        }
+        if (r >= l && r != index)
+        {
+            swap(arr, r, index);
+            index = r;
+        }
+       // print(arr);
+        while (l < r && arr[l] < cur)
+        {
+            ++l;
+        }
+        if (l < r && l != index)
+        {
+            swap(arr, l, index);
+            index = l;
+        }
+       // print(arr);
+    }
+
+    return l;
+}
+
+void help(vector<int>& arr, int l, int r)
+{
+    if (l >= r || r < 0  || l >= arr.size())
+    {
+        return;
+    }
+    int pa = digui(arr, l, r);
+    cout << pa << endl;
+    print(arr);
+    help(arr, l, pa-1);
+    help(arr, pa+1, r);
+}
+
+void* operator new(size_t size)
+{
+    cout << "new" << endl;
+    malloc(sizeof(int));
+}
+
+int main()
+{
+    int *a = new int();
     return 0;
 }
-
-1 2 3 4 5
-4 1 5 9 2
-1 0 1 1 0
-  1     1

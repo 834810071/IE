@@ -1,23 +1,32 @@
-#include <iostream>
-#include <typeinfo>
-using namespace std;
+#include <stdio.h>
+#include <string.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <arpa/inet.h>
+#include <unistd.h>
 
-class A
+int main(int argc, char **argv)
 {
-public:
-   virtual void Print() { cout<<"This is class A."<<endl; }
-};
+    int sockfd;
+    struct sockaddr_in servaddr;
 
-class B : public A
-{
-public:
-    virtual void Print() { cout<<"This is class B."<<endl; }
-};
+    sockfd = socket(PF_INET, SOCK_STREAM, 0);
 
-int main()
-{
-    A *pA = new B();
-    cout<<typeid(pA).name()<<endl; // class A *
-    cout<<typeid(*pA).name()<<endl; // class A
-    return 0;
+    bzero(&servaddr, sizeof(servaddr));
+    servaddr.sin_family = AF_INET;
+    servaddr.sin_port = htons(50001);
+    servaddr.sin_addr.s_addr = inet_addr("127.0.0.1");
+
+    if (0 != connect(sockfd, (struct sockaddr *)&servaddr, sizeof(servaddr)))
+    {
+        printf("connect failed!\n");
+    }
+    else
+    {
+        printf("connect succeed!\n");
+    }
+
+    sleep(30);
+
+    return 1;
 }
