@@ -4,7 +4,9 @@ project(IE)
 set(CMAKE_CXX_STANDARD 14)
 
 set(lib
-        test.cpp)
+        test.cpp
+        time_heap.cpp
+        time_heap.h)
 
 add_library(Lib ${lib})
 
@@ -13,3 +15,4 @@ add_executable(test test.cpp)
 add_executable(epoll epoll源码注释.c)
 
 target_link_libraries(IE Lib pthread)
+target_link_libraries(test Lib pthread)

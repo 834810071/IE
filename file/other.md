@@ -30,6 +30,12 @@
 
 [C++面试宝典](https://www.nowcoder.com/tutorial/93/8ba2828006dd42879f3a9029eabde9f1)
 
+[你们需要的C++面试题来了](https://mp.weixin.qq.com/s?__biz=MzIwODI3NDk4Mg==&mid=2247485013&idx=2&sn=b70948b45ae104a4feb1f6905412bc84&chksm=9704d51ca0735c0a48b4f3f191df6d6aa84232b406a5a35f1543b7c8ef6df4a8630b2d30583a&scene=0&xtrack=1&exportkey=A3gpgx0Xe2gAGxbfIw1lsLw%3D&pass_ticket=kghR2tZybuDSjhJ1DdKw9NBpn26hHHLSL9y9bABXnDHI2hiILChfPaQf%2BjzyxPLx#rd)
+
+[腾讯C++后台开发面试笔试知识点参考笔记](https://mp.weixin.qq.com/s?__biz=MzA3MTU1MzMzNQ==&mid=2247485008&idx=1&sn=2096030cab1403fe4dcfe44278f770f1&chksm=9f2a9e08a85d171e8d1a6d37b8f5121d885ad415ca26c7b4a0df81c593e815776482cd01f964&scene=0&xtrack=1&exportkey=A37Q8hqDbNHctFNz26WZq48%3D&pass_ticket=YEO6O2qMY479vaEeH%2F1jtKRHGizQVnmYjkbhHP74kD%2FNPsG4S1qid5Z9wEaSzGqb#rd)
+
+[我的2016笔试面试经验(送给下一届的学弟学妹们) ](https://www.nowcoder.com/discuss/18460)
+
 ---
 
 ### 知识点
@@ -41,3 +47,27 @@
 [漫画：美团面试题（TOPK：求第K个最大的元素）](https://mp.weixin.qq.com/s?__biz=Mzg2NzA4MTkxNQ==&mid=2247487187&idx=2&sn=00e34b16b1dbaf97ece7c6d9e796a933&chksm=ce404507f937cc11fd77e1164abc8c97b753e1bd6d572fd781c172369adc85f534bb4560f67d&scene=0&xtrack=1&exportkey=A7bjM43mqBeyS42%2BcogAAgU%3D&pass_ticket=Q6IAjSjKVqZKcjHGt21AZGcwOAi3MHzOXrR78xxoMxdxrp64M%2FKX48msfsKs5Wck#rd)
 
 [漫画：BAT必考题目 （最小的k个数）](https://mp.weixin.qq.com/s?__biz=MzI2NjI5MzU2Nw==&mid=2247484287&idx=1&sn=c7207c765c363e0f1e97c5fb58b1bfd5&chksm=ea911b2fdde69239971cf26b206e7d52c79b4be73792f42107b12737b3490c4d788402327547&scene=21#wechat_redirect)
+
+[腾讯面试题04.进程和线程的区别？](https://blog.csdn.net/mxsgoden/article/details/8821936)
+
+[拜托，别问我什么各种Tree了，干就完事！](https://mp.weixin.qq.com/s?__biz=MzI3NzcwNjY3NQ==&mid=2247483940&idx=1&sn=0c9b346ad35e0cd6b9c58b82a73bd5f9&chksm=eb6360f8dc14e9ee146bef73a0ffd6469b2b4599510d16a1038022b9e05aec526e02ec1ae4ab&scene=0&xtrack=1&exportkey=A9cinI1wvSa8f8lTlgf8Qk8%3D&pass_ticket=YEO6O2qMY479vaEeH%2F1jtKRHGizQVnmYjkbhHP74kD%2FNPsG4S1qid5Z9wEaSzGqb#rd)
+
+[详解linux虚拟内存原理](https://mp.weixin.qq.com/s?__biz=MzU4NDM4MjA1Mg==&mid=2247484296&idx=1&sn=5e44aee6d9df11fe4420d48dea8e24d6&chksm=fd9be083caec69952cabedaf50ab07d3b72279188ad3c12df0c9f52350da7988dc401127dc6c&scene=0&xtrack=1&exportkey=A5v3Jy7jiUsFxmo%2BHJcw%2FXg%3D&pass_ticket=YEO6O2qMY479vaEeH%2F1jtKRHGizQVnmYjkbhHP74kD%2FNPsG4S1qid5Z9wEaSzGqb#rd)
+
+[linux内存分配管理](https://mp.weixin.qq.com/s?__biz=MzU4NDM4MjA1Mg==&mid=2247484310&idx=1&sn=16d0d531877f4be9a44aca1ad832bec8&chksm=fd9be09dcaec698bb0d8e42cb8ccc7da71db34c1b6806544debb1e8835a9c284834a18297ce5&scene=0&xtrack=1&exportkey=A5HHjutf4PdQhWzBXQKW41s%3D&pass_ticket=YEO6O2qMY479vaEeH%2F1jtKRHGizQVnmYjkbhHP74kD%2FNPsG4S1qid5Z9wEaSzGqb#rd)
+
+[二叉树问题太复杂？「三步走」方法解决它！](https://mp.weixin.qq.com/s?__biz=MzA5ODk3ODA4OQ==&mid=2648167191&idx=1&sn=6d8ce02aaf7376f94eee022ac2324568&chksm=88aa2351bfddaa470552469d23d6cb2da4191a242cee66a36b143a2722021ac3566abb60ac09&scene=0&xtrack=1&exportkey=A9s4RMf2ZuzgrMPyL2jQB7E%3D&pass_ticket=YEO6O2qMY479vaEeH%2F1jtKRHGizQVnmYjkbhHP74kD%2FNPsG4S1qid5Z9wEaSzGqb#rd)
+
+[今天就盘计算机网络，跟帅地快速过一遍计算机网络！](https://mp.weixin.qq.com/s?__biz=Mzg2NzA4MTkxNQ==&mid=2247487231&idx=1&sn=2514355ae23974cc14dc18f13ff311c6&chksm=ce40452bf937cc3d1cb8af348376d7457ef61d03ca6e625c0adb9dfc3537a745b11641d0d91e&scene=0&xtrack=1&exportkey=A1I%2F21V6fztjYVdDSOIGLn0%3D&pass_ticket=YEO6O2qMY479vaEeH%2F1jtKRHGizQVnmYjkbhHP74kD%2FNPsG4S1qid5Z9wEaSzGqb#rd)
+
+[我和面试官之间关于操作系统的一场对弈！写了很久，看完你就可以盘面试官了](https://mp.weixin.qq.com/s?__biz=Mzg2NzA4MTkxNQ==&mid=2247487214&idx=1&sn=38cbbd83ca62ecdcf6d476735d5f613d&chksm=ce40453af937cc2c842520ccb16f8a4309f6976c4bc5452cdccc24d8cd741bbeb37e854046f0&scene=0&xtrack=1&exportkey=A1a%2FU5g649%2FZL1DiHeBvWCQ%3D&pass_ticket=YEO6O2qMY479vaEeH%2F1jtKRHGizQVnmYjkbhHP74kD%2FNPsG4S1qid5Z9wEaSzGqb#rd)
+
+[看完这篇 HTTPS，和面试官扯皮就没问题了](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247487830&idx=2&sn=11257effafffe416cd13a035ad6f2fcf&chksm=fa0e7ed7cd79f7c1d8cdbddd53ab83faa39f2d05b16d2f7a120b065ce8862ca44f18392328db&scene=0&xtrack=1&exportkey=AyvwXSQRpFjsqTdY8dLbKho%3D&pass_ticket=YEO6O2qMY479vaEeH%2F1jtKRHGizQVnmYjkbhHP74kD%2FNPsG4S1qid5Z9wEaSzGqb#rd)
+
+[15分钟读懂进程线程、同步异步、阻塞非阻塞、并发并行，太实用了！](https://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247491984&idx=2&sn=641c384c3d9e4f30e7e6f7627684aee3&chksm=eae214c2dd959dd40b8f45a1be2ca930cc5d0a7d1d7959ef40c362fda97851933082f3ab1ad9&scene=0&xtrack=1&exportkey=A%2FyV%2BKohNaveXFhIf27sml4%3D&pass_ticket=YEO6O2qMY479vaEeH%2F1jtKRHGizQVnmYjkbhHP74kD%2FNPsG4S1qid5Z9wEaSzGqb#rd)
+
+[最小堆定时器](https://mp.weixin.qq.com/s?__biz=MzU4NDM4MjA1Mg==&mid=2247484288&idx=1&sn=f24f887db875acb138d29d0cd4701bb0&chksm=fd9be08bcaec699da0aa570fe610ee2c1e62638ea0a2a3859cdfb3fdd0cf293cdc63bace2a27&scene=0&xtrack=1&exportkey=Axb6szzXA0q9jC2C%2B2iEVM8%3D&pass_ticket=YEO6O2qMY479vaEeH%2F1jtKRHGizQVnmYjkbhHP74kD%2FNPsG4S1qid5Z9wEaSzGqb#rd)
+
+[Linux 系统调用和库函数的区别](https://mp.weixin.qq.com/s?__biz=MzIwODI3NDk4Mg==&mid=2247484795&idx=2&sn=9a59f4883ff9448c7a43ed3532b6c008&chksm=9704d632a0735f244fc3f5228d3c84ceaa49d9ebffd8c561c4b681614e64c3b3c3ca72d12995&scene=0&xtrack=1&exportkey=AxguwZ7LZ%2F9QJWotr2aadoE%3D&pass_ticket=YEO6O2qMY479vaEeH%2F1jtKRHGizQVnmYjkbhHP74kD%2FNPsG4S1qid5Z9wEaSzGqb#rd)
+
+[数据库的初恋](https://mp.weixin.qq.com/s?__biz=MzI3NzcwNjY3NQ==&mid=2247483920&idx=1&sn=24a8c66417bf27c8d6d479617bd594b3&chksm=eb6360ccdc14e9da78931d42ba6448aa9630199183e6d4062522889d9c5074bd70090a8886f1&scene=0&xtrack=1&exportkey=AwNe6e%2B6X%2FPXeguoRDkUED4%3D&pass_ticket=YEO6O2qMY479vaEeH%2F1jtKRHGizQVnmYjkbhHP74kD%2FNPsG4S1qid5Z9wEaSzGqb#rd)
