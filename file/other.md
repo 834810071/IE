@@ -71,3 +71,15 @@
 [Linux 系统调用和库函数的区别](https://mp.weixin.qq.com/s?__biz=MzIwODI3NDk4Mg==&mid=2247484795&idx=2&sn=9a59f4883ff9448c7a43ed3532b6c008&chksm=9704d632a0735f244fc3f5228d3c84ceaa49d9ebffd8c561c4b681614e64c3b3c3ca72d12995&scene=0&xtrack=1&exportkey=AxguwZ7LZ%2F9QJWotr2aadoE%3D&pass_ticket=YEO6O2qMY479vaEeH%2F1jtKRHGizQVnmYjkbhHP74kD%2FNPsG4S1qid5Z9wEaSzGqb#rd)
 
 [数据库的初恋](https://mp.weixin.qq.com/s?__biz=MzI3NzcwNjY3NQ==&mid=2247483920&idx=1&sn=24a8c66417bf27c8d6d479617bd594b3&chksm=eb6360ccdc14e9da78931d42ba6448aa9630199183e6d4062522889d9c5074bd70090a8886f1&scene=0&xtrack=1&exportkey=AwNe6e%2B6X%2FPXeguoRDkUED4%3D&pass_ticket=YEO6O2qMY479vaEeH%2F1jtKRHGizQVnmYjkbhHP74kD%2FNPsG4S1qid5Z9wEaSzGqb#rd)
+
+[面试常考点：http和https的区别与联系](https://blog.csdn.net/xionghuixionghui/article/details/68569282)
+
+[HTTP与TCP的区别和联系](https://blog.csdn.net/u013485792/article/details/52100533)
+
+[Linux进程总结](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649446675&idx=1&sn=540075dd25c7874a5f06957b989cbddc&chksm=f3a27860c4d5f1760f5bbe88bfb59513cb648a2a9bbfb6a29fffa17a3da2d514574bbbea2ba7&scene=0&xtrack=1&exportkey=A%2FuT%2B9QeC2gSgDAjlYYzBDs%3D&pass_ticket=QDl6Sz47X44kCfE%2FMsekc0cHQRQX2zN3l1PTg8Rt2sy6e2lickrTcMTN%2Bi21XScq#rd)
+
+[浅谈Linux内存管理那些事儿](https://mp.weixin.qq.com/s?__biz=MzI2MTcxNjg5OA==&mid=2247484009&idx=1&sn=08cd17746acda15da3f521eae3c0bc45&chksm=ea576ca4dd20e5b22e7d46989da5c4c07b78f8e6186efd03f462b6cd938f4fdeccdf14005ce9&scene=0&xtrack=1&exportkey=AxaFVMXQU9Fy9YbBqhi5Yt0%3D&pass_ticket=QDl6Sz47X44kCfE%2FMsekc0cHQRQX2zN3l1PTg8Rt2sy6e2lickrTcMTN%2Bi21XScq#rd)
+
+[[TCP 的那些事儿](https://www.cnblogs.com/sunsky303/p/10643263.html)]
+
+[SQL查询语句练习题](https://zhuanlan.zhihu.com/p/55372544)
