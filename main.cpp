@@ -12,51 +12,48 @@
 #include <climits>
 
 using namespace std;
-class Solution {
-public:
-    /**
-     *
-     * @param version1 string字符串
-     * @param version2 string字符串
-     * @return int整型
-     */
-    int compareVersion(string version1, string version2) {
-        // write code here
-        if (version1 == version2)
-        {
-            return 0;
-        }
 
-        int i = 0, j = 0;
-        int len1 = version1.length(), len2 = version2.length();
-        while (i < len1 && j < len2)
-        {
-            if (version1[i] > version2[j])
-            {
-                return 1;
-            }
-            else if (version1[i] < version2[j])
-            {
-                return -1;
-            }
-            else
-            {
-                ++i;
-                ++j;
-            }
-        }
-        if (i < len1)
-        {
-            return 1;
-        }
-        else
-        {
-            return 1;
-        }
+class B
+{
+public:
+    B()
+    {
+
     }
+    B(int b)
+    {
+        b = b;
+    }
+private:
+    int b;
 };
 
+class A
+{
+public:
+    A(B x) : b(x)
+    {
+        cout << "普通构造函数" << endl;
+    }
+
+    A(A&& a)
+    {
+        cout << "移动构造函数" << endl;
+        this->b = a.b;
+    }
+    A(const A& a)
+    {
+        cout << "拷贝构造函数" << endl;
+
+        this->b = a.b;
+    }
+private:
+    B b;
+};
 int main()
 {
+    A a(11);
+    A b(A(12));
+    A c(move(a));
     return 0;
 }

@@ -83,3 +83,20 @@
 [[TCP 的那些事儿](https://www.cnblogs.com/sunsky303/p/10643263.html)]
 
 [SQL查询语句练习题](https://zhuanlan.zhihu.com/p/55372544)
+
+[[数据库](https://www.cnblogs.com/HHHzhihao/p/12609845.html)]
+
+[详解布隆过滤器的原理，使用场景和注意事项](https://zhuanlan.zhihu.com/p/43263751)
+
+[全网最透彻HTTPS（面试常问）](https://mp.weixin.qq.com/s?__biz=MzAwNDA2OTM1Ng==&mid=2453141883&idx=2&sn=3b93d3bed05ec0094a0cae77bf1cc82c&chksm=8cf2dbf8bb8552ee286c4799b30d3847a641760142e50234b12bd042f9d238b3291c161b5996&scene=0&xtrack=1&exportkey=AxsVX61UrEai8MMLL1KCneM%3D&pass_ticket=bkectU6wcfZcFKygAq6y4ReQosvMHt3K8G1aeEFKElgCtRMM0R8I2zae2dJBNUDd#rd)
+
+[深入理解CAP理论和适用场景](https://mp.weixin.qq.com/s?__biz=MzI3ODg2OTY1OQ==&mid=2247486544&idx=2&sn=19bb73ec60a0cb0854142d93858b9376&chksm=eb512fa4dc26a6b2cc79f6863f14a127d11592cb9cd7f9ab847ef5a038eac59fe65c042ce240&scene=0&xtrack=1&exportkey=AwpeAbJ%2F7yB9l6is%2F7UtVpo%3D&pass_ticket=bkectU6wcfZcFKygAq6y4ReQosvMHt3K8G1aeEFKElgCtRMM0R8I2zae2dJBNUDd#rd)
+
+---
+
+### LeetCode
+
+[LeetCode 例题精讲 | 12 岛屿问题：网格结构中的 DFS](https://mp.weixin.qq.com/s?__biz=MzA5ODk3ODA4OQ==&mid=2648167208&idx=1&sn=d8118c7c0e0f57ea2bdd8aa4d6ac7ab7&chksm=88aa236ebfddaa78a6183cf6dcf88f82c5ff5efb7f5c55d6844d9104b307862869eb9032bd1f&scene=0&xtrack=1&exportkey=A4c9MaejeYrCco4FmGEPPsc%3D&pass_ticket=diGeb3cAaGn%2FticqnwUFCqXTUjzbYgGkUqF7EtM7PzKkPLbkgfrd%2FUb9iwC4edIY#rd)
+
+[经典动态规划：完全背包问题](https://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247485124&idx=1&sn=52068c8000b90a7a972dbd04658d79b7&chksm=9bd7f8ccaca071da66d3c9e567ab49b27c711db154c2f297f55fcd7c3c1156afa37b0ad60555&scene=0&xtrack=1&exportkey=AxJGZaR6Zn0%2BTdF3TOdT4xU%3D&pass_ticket=diGeb3cAaGn%2FticqnwUFCqXTUjzbYgGkUqF7EtM7PzKkPLbkgfrd%2FUb9iwC4edIY#rd)
+

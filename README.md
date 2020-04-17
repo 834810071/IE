@@ -1,4 +1,4 @@
-# IE
+# IE [Typera软件阅读]
 面经记录 -- 见[file](https://github.com/834810071/IE/tree/master/file)文件夹
 
 推荐： [C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。](https://github.com/huihut/interview)
