@@ -1,59 +1,54 @@
 #include <iostream>
-#include <string>
-#include <cstring>
-#include <stdio.h>
-#include <math.h>
 #include <vector>
-#include <unordered_set>
-#include <unordered_map>
+#include <numeric>
+#include <limits>
 #include <algorithm>
-#include <queue>
 #include <stack>
-#include <climits>
 
 using namespace std;
 
-class B
-{
-public:
-    B()
-    {
 
+struct RandomListNode {
+    int label;
+    struct RandomListNode *next, *random;
+    RandomListNode(int x) :
+            label(x), next(NULL), random(NULL) {
     }
-    B(int b)
-    {
-        b = b;
-    }
-private:
-    int b;
 };
 
-class A
-{
+class Solution {
 public:
-    A(B x) : b(x)
-    {
-        cout << "普通构造函数" << endl;
+    vector<string> Permutation(string str) {
+        vector<string> res;
+        dfs(str, res, 0);
+        sort(res.begin(), res.end());
+        return res;
     }
 
-    A(A&& a)
+    void dfs(string& str, vector<string>& res, int start)
     {
-        cout << "移动构造函数" << endl;
-        this->b = a.b;
+        if (start >= str.length())
+        {
+            res.push_back(str);
+        }
+        for (int i = start; i < str.length(); ++i)
+        {
+            swap(str[begin], str[i]);
+            dfs(str, res, start+1);
+            swap(str[begin], str[i]);
+        }
     }
-    A(const A& a)
-    {
-        cout << "拷贝构造函数" << endl;
 
-        this->b = a.b;
+    void swap(char& a, char& b)
+    {
+        char t = a;
+        a = b;
+        b = t;
     }
-private:
-    B b;
 };
-int main()
-{
-    A a(11);
-    A b(A(12));
-    A c(move(a));
+int main() {
+    Solution s;
+    s.Permutation("abc");
     return 0;
+
 }
