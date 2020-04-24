@@ -92,6 +92,8 @@
 
 [深入理解CAP理论和适用场景](https://mp.weixin.qq.com/s?__biz=MzI3ODg2OTY1OQ==&mid=2247486544&idx=2&sn=19bb73ec60a0cb0854142d93858b9376&chksm=eb512fa4dc26a6b2cc79f6863f14a127d11592cb9cd7f9ab847ef5a038eac59fe65c042ce240&scene=0&xtrack=1&exportkey=AwpeAbJ%2F7yB9l6is%2F7UtVpo%3D&pass_ticket=bkectU6wcfZcFKygAq6y4ReQosvMHt3K8G1aeEFKElgCtRMM0R8I2zae2dJBNUDd#rd)
 
+[进程间通信](https://mp.weixin.qq.com/s/qtH16MhPli-e7Cp53zHTEg)
+
 ---
 
 ### LeetCode
