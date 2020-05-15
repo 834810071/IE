@@ -92,22 +92,6 @@
 
 [深入理解CAP理论和适用场景](https://mp.weixin.qq.com/s?__biz=MzI3ODg2OTY1OQ==&mid=2247486544&idx=2&sn=19bb73ec60a0cb0854142d93858b9376&chksm=eb512fa4dc26a6b2cc79f6863f14a127d11592cb9cd7f9ab847ef5a038eac59fe65c042ce240&scene=0&xtrack=1&exportkey=AwpeAbJ%2F7yB9l6is%2F7UtVpo%3D&pass_ticket=bkectU6wcfZcFKygAq6y4ReQosvMHt3K8G1aeEFKElgCtRMM0R8I2zae2dJBNUDd#rd)
 
-[C++ STL库](https://blog.nowcoder.net/n/95824efb636f4442a440cc0acc929c79)
-
-[面试资料-C++](https://blog.nowcoder.net/n/597b7119c7ff40308fc6f9b59fdb041d?from=sx21)
-
-[牛客网](https://docs.qq.com/sheet/DQWRqeGJmQ1N1WEl5?c=A1A0AT0&tab=cdv9ja)
-
-[五种常见IO模型介绍](https://mp.weixin.qq.com/s/rVTI-1J5a0rhy0RvPZXHXg)
-
-[Linux面试题（2020最新版）](https://mp.weixin.qq.com/s/GAsIxGoS_XPr089pZGL16w)
-
-[C++面试题](http://www.mianshigee.com/job/C-plus-plus/p1)
-
-[LeetCode 例题精讲 | 15 最长公共子序列：二维动态规划的解法](https://mp.weixin.qq.com/s/dHIeiIQWAeynmYSq9IdqJg)
-
-[IP 基础知识“全家桶”，45 张图一套带走](https://mp.weixin.qq.com/s/qydIO7NDfFTYs4-ZZlfgRg)
-
 ---
 
 ### LeetCode
@@ -116,4 +100,3 @@
 
 [经典动态规划：完全背包问题](https://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247485124&idx=1&sn=52068c8000b90a7a972dbd04658d79b7&chksm=9bd7f8ccaca071da66d3c9e567ab49b27c711db154c2f297f55fcd7c3c1156afa37b0ad60555&scene=0&xtrack=1&exportkey=AxJGZaR6Zn0%2BTdF3TOdT4xU%3D&pass_ticket=diGeb3cAaGn%2FticqnwUFCqXTUjzbYgGkUqF7EtM7PzKkPLbkgfrd%2FUb9iwC4edIY#rd)
 
-[LeetCode 例题精讲 | 15 最长公共子序列：二维动态规划的解法](https://mp.weixin.qq.com/s/dHIeiIQWAeynmYSq9IdqJg)
