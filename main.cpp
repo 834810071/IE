@@ -1,54 +1,37 @@
 #include <iostream>
 #include <vector>
-#include <numeric>
-#include <limits>
+#include <queue>
+#include <deque>
 #include <algorithm>
-#include <stack>
+#include <sstream>
+#include <unordered_set>
 
 using namespace std;
 
 
-struct RandomListNode {
-    int label;
-    struct RandomListNode *next, *random;
-    RandomListNode(int x) :
-            label(x), next(NULL), random(NULL) {
-    }
-};
-
-class Solution {
-public:
-    vector<string> Permutation(string str) {
-        vector<string> res;
-        dfs(str, res, 0);
-        sort(res.begin(), res.end());
-        return res;
-    }
-
-    void dfs(string& str, vector<string>& res, int start)
+int main()
+{
+    string str;
+    cin >> str;
+    if (str.length() >= 100)
     {
-        if (start >= str.length())
+        cout << " " << endl;
+        return 0;
+    }
+    unordered_set<char> s;
+
+    for (int i = 0; i < str.length(); ++i)
+    {
+        if (s.count(str[i]))
         {
-            res.push_back(str);
+            cout << str[i] << endl;
+            return 0;
         }
-        for (int i = start; i < str.length(); ++i)
+        else
         {
-            swap(str[begin], str[i]);
-            dfs(str, res, start+1);
-            swap(str[begin], str[i]);
+            s.insert(str[i]);
         }
     }
-
-    void swap(char& a, char& b)
-    {
-        char t = a;
-        a = b;
-        b = t;
-    }
-};
-int main() {
-    Solution s;
-    s.Permutation("abc");
+    cout << " " << endl;
     return 0;
-
 }
