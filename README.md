@@ -1,6 +1,8 @@
 # IE [Typera软件阅读]
 面经记录 -- 见[file](https://github.com/834810071/IE/tree/master/file)文件夹
 
+[个人牛客面经记录](https://www.nowcoder.com/profile/8447408/myDiscussPost)
+
 推荐： [C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。](https://github.com/huihut/interview)
 
 [后台开发相关知识](https://github.com/twomonkeyclub/BackEnd)
