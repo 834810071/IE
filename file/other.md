@@ -108,6 +108,19 @@
 
 [IP 基础知识“全家桶”，45 张图一套带走](https://mp.weixin.qq.com/s/qydIO7NDfFTYs4-ZZlfgRg)
 
+[C语言与C++面试知识总结](https://mp.weixin.qq.com/s/GPM_-nyWubcPjXV8Ug93qw)
+
+[炸裂！万字长文拿下HTTP 我在字节跳动等你！](https://mp.weixin.qq.com/s/HFOU2zfpRTGRRiW2NwohaQ)
+
+[分析 HTTP，TCP 的长连接和短连接以及 sock](https://mp.weixin.qq.com/s/KUVZrP_ytSaaRW5bQQjcSw)
+
+[Java并发和多线程基础面试题大集合](https://mp.weixin.qq.com/s/pIVf97W4DuAPNxq6zgRvsQ)
+
+[c++11新特性，所有知识点都在这了！](https://mp.weixin.qq.com/s/EyKZE_MbZ-KLB3myZpzCbw)
+
+[[别被脱裤系列]2 还没深入数据库就浅出了](https://mp.weixin.qq.com/s/KnkktFsKOw9xMuMieciEog)
+
+
 ---
 
 ### LeetCode
