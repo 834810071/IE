@@ -120,7 +120,13 @@
 
 [[别被脱裤系列]2 还没深入数据库就浅出了](https://mp.weixin.qq.com/s/KnkktFsKOw9xMuMieciEog)
 
+[面试系列之C++的对象布局【建议收藏】](https://mp.weixin.qq.com/s/y5ts0o0-ESrw4_-i4CHfjQ)
 
+[写给程序员的 MySQL 面试高频 100 问，看完吊打面试官！](https://mp.weixin.qq.com/s/mXTLt53s5iv0YNPOq4Y6uQ)
+
+[彻底理解 IO多路复用](https://mp.weixin.qq.com/s/LBZOOs7T2ZFCkKsT1VXK-g)
+
+[后端服务中的定时器设计](https://mp.weixin.qq.com/s/t33b-KRq-nPsZG65ycABgw)
 ---
 
 ### LeetCode
