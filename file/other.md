@@ -127,6 +127,12 @@
 [彻底理解 IO多路复用](https://mp.weixin.qq.com/s/LBZOOs7T2ZFCkKsT1VXK-g)
 
 [后端服务中的定时器设计](https://mp.weixin.qq.com/s/t33b-KRq-nPsZG65ycABgw)
+
+[epoll LT 模式和 ET 模式详解](https://mp.weixin.qq.com/s/n5qp8hX-LXdO1NgQt22EKA)
+
+[SQL | 44道经典 SQL 笔试题与答案解析](https://mp.weixin.qq.com/s/E5P9XjsG27iO4OsZpkYPEw)
+
+
 ---
 
 ### LeetCode
