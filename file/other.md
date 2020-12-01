@@ -135,9 +135,93 @@
 
 [高并发基石|深入理解IO复用技术之epoll](https://mp.weixin.qq.com/s/ZL45TOUvuCaAGslrNdA5OA)
 
+[这篇高并发服务模型大科普，内部分享时被老大表扬了](https://mp.weixin.qq.com/s/yXMgpAhz3JhtCtutMQnXvQ)
+
+[大厂面试爱问的「调度算法」，20 张图一举拿下](https://mp.weixin.qq.com/s/JWj6_BF9Xc84kQcyx6Nf_g)
+
+[揭开高性能服务器底层面纱](https://mp.weixin.qq.com/s/iFtVNi0ec3wterrLJd3Lgw)
+
+[42图揭秘，「后端技术学些啥」](https://mp.weixin.qq.com/s/bWgX8ZoQj-ZZAigiiRHzAw)
+
+[138 张图带你 MySQL 入门](https://mp.weixin.qq.com/s/LePDgnothGCnOLoxNVRQKQ)
+
+[纯干货|史上最全的技术岗面试笔记—数据库篇（下）](https://mp.weixin.qq.com/s/TzEhG0RAimmjYruqXNOznw)
+
+[纯干货|史上最全的技术岗面试笔记——数据库篇（上）](https://mp.weixin.qq.com/s/9EUhiZQ_yHXuX82msGkPAg)
+
+[姗姗来迟的Redis分布式锁](https://mp.weixin.qq.com/s/Z_xriP-jc2Bnmdcm0l5xzg)
+
+[Linux 进程间通信方式(管道、命名管道、消息队列、信号量、共享内存、套接字)](https://mp.weixin.qq.com/s/qtH16MhPli-e7Cp53zHTEg)
+
+[五分钟学算法：什么是堆？](https://mp.weixin.qq.com/s/7GeO8jjg1QUG_ofJznOsCQ)
+
+[高并发基石|深入理解IO复用技术之epoll](https://mp.weixin.qq.com/s/FKvEnf8rMgRM3k934oko4A)
+
+[100 个网络基础知识普及，看完成半个网络高手！（文末附PDF版本）](https://mp.weixin.qq.com/s/9t-7fcMCxDdwSwrs0hlU_g)
+
+[高频面试题-如何交换两个变量值？](https://mp.weixin.qq.com/s/pSJe2t8MgKCxOvwqDgbyuw)
+
+[硬核！16000 字 Redis 面试知识点总结，建议收藏！](https://mp.weixin.qq.com/s/bHeTlrCeM-MXvcr2xcV0ow)
+
+[8000+字总结：一文搞定 UDP 和 TCP 高频面试题！](https://mp.weixin.qq.com/s/Hda0LCYAKTvwfUMMm_i4Ng)
+
+[网络编程-数据结构与函数详解](https://mp.weixin.qq.com/s/S7xo9GupiFov0Djsl1S-OA)
+
+[校招必看硬核干货：C++怎么学才能进大厂](https://mp.weixin.qq.com/s/GGG10XQLP2QhX_1EThlgkg)
+
+[字节跳动的面试题.pdf](https://mp.weixin.qq.com/s/_CVIqVVmc53mZaMfs7Yd1A)
+
+[高性能服务器开发 2019 年原创汇总](https://mp.weixin.qq.com/s/FfXAsHGEZrivnyB6EKdP2g)
+
+[C++后台腾讯WXG实习面经（已拿offer）](https://mp.weixin.qq.com/s/JY-ZIRcGbypCA3ew5bQteQ)
+
+[零基础，SQL语句大全，所有的SQL都在这里](https://mp.weixin.qq.com/s/gLRAdFzlSLQlSgr2L0glbw)
+
+[单例模式很简单？但是你真的能写对吗？](https://mp.weixin.qq.com/s/ipZUOMhjKxXLb1S8o1-G6Q)
+
+[你该知道的C++四种显式类型转换](https://mp.weixin.qq.com/s/dOYQn1a6SSrLlXKExS3O5A)
+
+[《吊打面试官》系列-秒杀系统设计](https://mp.weixin.qq.com/s/z2S1EjWQDwKm5Ud36IenNw)
+
+[《吊打面试官》之Redis基础—这是我看过超有条理的面试文章了](https://mp.weixin.qq.com/s/d6pixN-wrC3zf0V6Llhl8Q)
+
+[精心整理了20道操作系统高频面试题(建议收藏)](https://mp.weixin.qq.com/s/kXZEgpj6krym2Pxk6O1EGA)
+
+[100 道 Linux 笔试题，能拿90分以上的都去了BAT](https://mp.weixin.qq.com/s/K6mBj-Zlr_9_LwpU5X8W6Q)
+
+[一文彻底搞懂cookie和session](https://mp.weixin.qq.com/s/Zg7GY3diBTrviRFWQFoo-A)
+
+[你们要的C++面试题答案来了--基础篇](https://mp.weixin.qq.com/s/NmJQ0tEk78rSvxAWzO6cRw)
+
+[聊一聊字节跳动的面试](https://mp.weixin.qq.com/s/73FO63_ydKhuKTWUSCS3TQ)
+
+[你们要的C++面试题答案来了--基础篇](https://mp.weixin.qq.com/s/YRo5Lm9pbbZnjY1DQfW6yw)
+
+[面试环节：在浏览器输入 URL 回车之后发生了什么？（超详细版）](https://mp.weixin.qq.com/s/CF_i7Q-dHokD1GXeBYScFA)
+
+[GDB调试入门，看这篇就够了](https://mp.weixin.qq.com/s/7HGDy91SLRLM-6uWRzM78w)
+
+[干货 | 非科班C++后台实习面经](https://mp.weixin.qq.com/s/u_5a64BldXeWQgDhlmyUig)
+
+[面经 | 附答案的蚂蚁金服面经分享](https://mp.weixin.qq.com/s/QFIDulDjkopG9CeleUAH8g)
+
+[【BATJ面试必会】Jvm 虚拟机篇](https://mp.weixin.qq.com/s/mo_pQ5Q1o4c-_fPcii3mrg)
+
+[BATJ面试必会之Java IO 篇](https://mp.weixin.qq.com/s/jgC5cUwQtOZQgi0pLzoqxw)
+
+[BATJ面试必会之 Spring 篇(一）](https://mp.weixin.qq.com/s/Y7Y1NHnv5oECt6-VpviQxw)
+
+[BATJ面试必会之 Java 容器篇](https://mp.weixin.qq.com/s/W1dx2gOuLY0nd6gq71BwDA)
+
 ---
 
 ### LeetCode
+
+[深度剖析头条面试真题 | 二叉树那点事儿](https://mp.weixin.qq.com/s/JMO-0j6mxUXtrs3VzfWuYg)
+
+[Leecode题解 ：4.Median of Two Sorted Arrays](https://mp.weixin.qq.com/s/g3-_zLFMRFoCUXhfQmSYFQ)
+
+[BFS 算法框架套路详解](https://mp.weixin.qq.com/s/WH_XGm1-w5882PnenymZ7g)
 
 [LeetCode 例题精讲 | 12 岛屿问题：网格结构中的 DFS](https://mp.weixin.qq.com/s?__biz=MzA5ODk3ODA4OQ==&mid=2648167208&idx=1&sn=d8118c7c0e0f57ea2bdd8aa4d6ac7ab7&chksm=88aa236ebfddaa78a6183cf6dcf88f82c5ff5efb7f5c55d6844d9104b307862869eb9032bd1f&scene=0&xtrack=1&exportkey=A4c9MaejeYrCco4FmGEPPsc%3D&pass_ticket=diGeb3cAaGn%2FticqnwUFCqXTUjzbYgGkUqF7EtM7PzKkPLbkgfrd%2FUb9iwC4edIY#rd)
 
